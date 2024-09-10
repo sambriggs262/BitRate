@@ -1,0 +1,5 @@
+speechrecognition==3.9.0
+Pillow==9.5.0
+numpy==1.24.2
+opencv-python==4.7.0.72
+spacy==3.5.0
